@@ -48,8 +48,8 @@ Main Flow Services and Technologies Pvt. Ltd.
 
 | Login Form | Success | Failure |
 |------------|---------|---------|
-|![Login GUI](Screenshot%202025-07-12%20145723.png)
-|![Login Success](Screenshot%202025-07-12%20145746.png)
+|![Login GUI](Screenshot%202025-07-12%20145723.png)|
+|![Login Success](Screenshot%202025-07-12%20145746.png)|
 |![Login Failure](Screenshot%202025-07-12%20145809.png)
 |
 
