@@ -13,10 +13,7 @@ Instead of using NetBeans drag-and-drop (as originally stated), I chose to **man
 ---
 
 ## 🏢 Internship Organization:
-**[Your Company Name Here]**
-
-> (You can replace with your company name or remove this section if not applicable)
-
+Main Flow Services and Technologies Pvt. Ltd.
 ---
 
 ## 🧰 Technologies Used
@@ -51,7 +48,7 @@ Instead of using NetBeans drag-and-drop (as originally stated), I chose to **man
 
 | Login Form | Success | Failure |
 |------------|---------|---------|
-| ![](screenshots/login_gui.png) | ![](screenshots/login_success.png) | ![](screenshots/login_fail.png) |
+|C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot 2025-07-12 145723.png | C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot 2025-07-12 145746.png | C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot 2025-07-12 145809.png |
 
 ---
 
